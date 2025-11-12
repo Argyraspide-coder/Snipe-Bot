@@ -1,4 +1,4 @@
-CLIENT_ID: str = "azzbmgahm4n02w8z6ohmcnnaeug0af"
-CLIENT_SECRET: str = "ck5fk7njrfz58u0orzrqs30dqkkbcx"
+CLIENT_ID: str = ""
+CLIENT_SECRET: str = ""
 
 cooldown = 20  #sec
