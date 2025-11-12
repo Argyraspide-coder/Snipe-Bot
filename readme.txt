@@ -27,6 +27,7 @@
 3  - Construction et fonctionnement.
 
     Cette application est construite sur le modèle proposé dans cette vidéo, il est assez rudimentaire.
+    Nous recommandons de visionner cette vidéo, notamment afin de comprendre comment obtenir les CLIENT_ID et CLIENT_SECRET
     https://youtu.be/Vq6nRADd6ns?si=-XSR2_ynmGl4KZdt
 
     Le passage du programme python à l'application dédiée et utilisable par le système windows est expliqué dans la page :
