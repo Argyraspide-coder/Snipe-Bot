@@ -1,4 +1,11 @@
-1  - Objectif et usage
+1  - Intérêt initial pour le projet
+
+    Ce projet est né d'une discussion avec un ami streamer sur twitch, dont le bot qui effectuait cette fonctionnalité ne marchait plus.
+    J'ai alors entrepris de combler le vide, et au passage de m'aventurer dans la création d'un bot twitch.
+
+    Le coeur du projet n'était pas les fonctionnalités du bot en elles-même, mais plutôt son intégration avec les API de Twitch, et les intéractions avec le chat.
+
+2  - Objectif et usage
 
     Cette application a pour but de générer un chatbot twitch qui se connecte à une chaine spécifique.
     Sa seule fonction est une réponse à la commande !snipe (insérée dans le chat twitch).
@@ -12,7 +19,7 @@
 
     Le chatbot dispose d'un temps de rechargement, configurable, afin d'éviter le spamm.
 
-2  - Paramètres
+3  - Paramètres
 
     Les paramètres sont listés dans le fichier config.py, éditable à l'aide du bloc-note ou de tout autre éditeur de texte 
 
@@ -24,7 +31,7 @@
     +cooldown : Paramètre du temps de rechargement en secondes
 
 
-3  - Construction et fonctionnement.
+4  - Construction et fonctionnement.
 
     Cette application est construite sur le modèle proposé dans cette vidéo, il est assez rudimentaire.
     Nous recommandons de visionner cette vidéo, notamment afin de comprendre comment obtenir les CLIENT_ID et CLIENT_SECRET
